@@ -14,3 +14,9 @@ html {
   background-color: black;
   color: white;
 }
+
+.me {
+  color: #00ffff;
+  font-size: 16px;
+  width: 50%;
+}
